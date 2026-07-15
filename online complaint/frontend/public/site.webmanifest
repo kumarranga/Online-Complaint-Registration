@@ -1,9 +1,0 @@
-{
-  "name": "ComplaintCare",
-  "short_name": "ComplaintCare",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f6f8f7",
-  "theme_color": "#0f766e"
-}
-
